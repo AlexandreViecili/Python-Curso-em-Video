@@ -6,3 +6,4 @@ Atualmente possui todos exercícios do Mundo 1 e 2 do curso:
 
 - Mundo 1: Foram abordados conceitos básicos, tipos primitivos, saída de dados, operadores aritméticos, utlização de módulos, manipulação de texto, condições (if, else) e adcionar cores ao terminal.
 - Mundo 2: Foi abordado condições aninhadas, estrutura de repetição for, estrutura de repetição while e interrompendo estruturas de repetição.
+- Mundo 3: Neste mundo foi abordado tuplas, listas, dicionários, funções, modularização e tratamento de erros em Python.
